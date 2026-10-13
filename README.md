@@ -9,6 +9,9 @@
 - **[Основные типы данных в C++](https://github.com/def-lt/Konspekty-MDK/blob/c++-osnovnye-tipy-dannyh/C++/Основные_типы_данных.md)**  
   Ветка: `c++-osnovnye-tipy-dannyh`
 
+- **[Три вида циклов в C++](https://github.com/def-lt/Konspekty-MDK/blob/c++-cikly/C++/Циклы.md)**  
+  Ветка: `c++-cikly`
+
 ### Системное программирование
 
 - **[Лекция 3. Память](https://github.com/def-lt/Konspekty-MDK/blob/sistemnoe-programmirovanie-lekciya-3-pamyat/Системное_программирование/Лекция_3_Память.md)**  
